@@ -36,7 +36,7 @@ Použité tabulky pocházejí z [Portálu otevřených dat ČR](https://data.gov
 
 Analýza vývoje průměrných mezd v letech 2006–2018 ukazuje, že ve všech odvětvích obecně došlo k růstu mezd.
 V některých sektorech však byly v určitých letech zaznamenány poklesy.
-Tyto případy jsou v posledním sloupci `wage_fluctuation` označeny jako „POKLES“.
+Tyto případy jsou v posledním sloupci `wage_trend` označeny jako „decrease“.
 Největší propad byl zaznamenán v roce 2013 ve finančním a pojišťovacím sektoru, kdy se průměrná mzda snížila o 8,83 %.
 Nejčastější poklesy mezd byly zaznamenány v těžebním průmyslu a dobývání nerostných surovin, kde k nim došlo ve čtyřech letech: 2009, 2013, 2014 a 2016.
 
